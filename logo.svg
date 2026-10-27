@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-label="Logo Focinho Feliz">
+  <!-- Dedos da patinha -->
+  <ellipse cx="22" cy="52" rx="11" ry="14" transform="rotate(-25 22 52)" fill="#4B2C82"/>
+  <ellipse cx="44" cy="28" rx="11" ry="15" transform="rotate(-8 44 28)" fill="#4B2C82"/>
+  <ellipse cx="76" cy="28" rx="11" ry="15" transform="rotate(8 76 28)" fill="#4B2C82"/>
+  <ellipse cx="98" cy="52" rx="11" ry="14" transform="rotate(25 98 52)" fill="#4B2C82"/>
+  <!-- Almofada principal -->
+  <path d="M60 58 C78 58 94 76 94 92 C94 106 82 110 72 106 C66 104 64 102 60 102 C56 102 54 104 48 106 C38 110 26 106 26 92 C26 76 42 58 60 58 Z" fill="#4B2C82"/>
+  <!-- Coração -->
+  <path d="M60 96 C48 88 50 78 55 78 C57.5 78 59.3 79.8 60 82 C60.7 79.8 62.5 78 65 78 C70 78 72 88 60 96 Z" fill="#FF6F61"/>
+</svg>
